@@ -18,9 +18,9 @@
 }
 
 .parole{ 
+    
     display: inline-block;
     
-    position: relative;
     
     
     
@@ -28,6 +28,7 @@
 
 .parole i{
     
+    position: absolute;
     opacity: 0;
     animation: fadeInOut 12s infinite;
 }
